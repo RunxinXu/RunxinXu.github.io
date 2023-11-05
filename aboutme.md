@@ -107,13 +107,17 @@ Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/a
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
 ACL2020, System Demonstrations.
 
-TableIE: Capturing the Interactions among Sub-tasks in Information Extraction via Double Tables. \\
+TableIE: Capturing the Interactions among Sub-tasks in Information Extraction via Double Tables. \[[PDF](https://ieeexplore.ieee.org/abstract/document/10095912)\] \\
 jiaxing lin, **Runxin Xu**, Baobao Chang. \\
 ICASSP2023.
 
 Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning. \[[PDF](https://arxiv.org/pdf/2204.00166.pdf)\] \\
 Ziyun Xu<sup>*</sup>, Chengyu Wang<sup>*</sup>, Minghui Qiu, Fuli Luo, **Runxin Xu**, Songfang Huang, Jun Huang \\
 WSDM2023.
+
+Knowledgeable Salient Span Mask for Enhancing Language Models as Knowledge Base. \[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_35)\] \\
+Cunxiang Wang, Fuli Luo, Yanyang Li, **Runxin Xu**, Fei Huang, Yue Zhang
+NLPCC2023.
 
 Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \[[PDF](https://arxiv.org/pdf/2203.02889.pdf)\] \[[code](https://github.com/PKUnlp-icler/MLS)\] \\
 Liang Chen, **Runxin Xu**, Baobao Chang. \\
