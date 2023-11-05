@@ -116,7 +116,7 @@ Ziyun Xu<sup>*</sup>, Chengyu Wang<sup>*</sup>, Minghui Qiu, Fuli Luo, **Runxin 
 WSDM2023.
 
 Knowledgeable Salient Span Mask for Enhancing Language Models as Knowledge Base. \[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_35)\] \\
-Cunxiang Wang, Fuli Luo, Yanyang Li, **Runxin Xu**, Fei Huang, Yue Zhang
+Cunxiang Wang, Fuli Luo, Yanyang Li, **Runxin Xu**, Fei Huang, Yue Zhang \\
 NLPCC2023.
 
 Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \[[PDF](https://arxiv.org/pdf/2203.02889.pdf)\] \[[code](https://github.com/PKUnlp-icler/MLS)\] \\
