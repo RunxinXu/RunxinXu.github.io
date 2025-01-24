@@ -12,11 +12,19 @@ published: true
 
 ----------------------------
 
+
+<img src="myself.jpeg" align="left">
+<br>
+<br>
+
+
 I am Runxin Xu (许润昕), working as a researcher at [DeepSeek](https://chat.deepseek.com/). I am deeply involved in the development of DeepSeek's series of models, including [DeepSeek-R1](https://arxiv.org/abs/2501.12948), DeepSeek [V1](https://arxiv.org/abs/2401.02954)/[V2](https://arxiv.org/abs/2405.04434)/[V3](https://arxiv.org/abs/2412.19437), [DeepSeek Math](https://arxiv.org/abs/2402.03300), [DeepSeek Coder](https://arxiv.org/abs/2406.11931), [DeepSeek MoE](https://arxiv.org/abs/2401.06066). 
 
 Previously, I was a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn).
 
 My long-term research interest primarily lies in AGI, continuously pushing the boundaries of AI intelligence with scalable and effective methods. I constantly remind myself to read the [bitter lessons](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+
+
 
 ----------------------------
 
