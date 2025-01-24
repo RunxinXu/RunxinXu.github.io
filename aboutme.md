@@ -76,7 +76,7 @@ DeepSeek-V3 Technical Report. \[[PDF](https://arxiv.org/pdf/2412.19437)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
 Arxiv 2024
 
-DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model. \[[PDF](https://arxiv.org/pdf/2405.04434\] \\
+DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model. \[[PDF](https://arxiv.org/pdf/2405.04434)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
 Arxiv 2024
 
