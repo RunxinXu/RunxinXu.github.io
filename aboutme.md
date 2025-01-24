@@ -12,10 +12,7 @@ published: true
 
 ----------------------------
 
-
-<img src="/myself_tiny.jpeg" align="left">
-<br>
-<br>
+![img](/myself_tiny.jpeg)
 
 
 I am Runxin Xu (许润昕), working as a researcher at [DeepSeek](https://chat.deepseek.com/). I am deeply involved in the development of DeepSeek's series of models, including [DeepSeek-R1](https://arxiv.org/abs/2501.12948), DeepSeek [V1](https://arxiv.org/abs/2401.02954)/[V2](https://arxiv.org/abs/2405.04434)/[V3](https://arxiv.org/abs/2412.19437), [DeepSeek Math](https://arxiv.org/abs/2402.03300), [DeepSeek Coder](https://arxiv.org/abs/2406.11931), [DeepSeek MoE](https://arxiv.org/abs/2401.06066). 
