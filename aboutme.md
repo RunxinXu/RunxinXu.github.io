@@ -13,7 +13,7 @@ published: true
 ----------------------------
 
 
-<img src="/myself.jpeg" align="left">
+<img src="/myself_tiny.jpeg" align="left">
 <br>
 <br>
 
