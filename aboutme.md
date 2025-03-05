@@ -107,7 +107,7 @@ ACL 2024
 	
 Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models. \[[PDF](https://arxiv.org/pdf/2403.00231)\] \\
 Lei Li, Yuqi Wang, **Runxin Xu**, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu \\
-ICLR 2025
+ACL 2024
 
 Omni-math: A universal olympiad level mathematic benchmark for large language models. \[[PDF](https://arxiv.org/pdf/2410.07985)\] \\
 Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, **Runxin Xu**, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang \\
