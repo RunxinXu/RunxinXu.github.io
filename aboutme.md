@@ -42,7 +42,7 @@ My long-term research interest primarily lies in AGI, continuously pushing the b
 
 [**DeepSeek AI**](https://chat.deepseek.com/), *August. 2023 -- present*
 
-- LLM post-training.
+- LLM for AGI.
 
 [**Metabit Trading**](https://www.metabit-trading.com/home), *November. 2022 -- March. 2023*
 
