@@ -73,9 +73,9 @@ ByteDance Search, *January. 2022 -- September. 2022*
 
 # Selected Publications
 
-DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. \[[PDF](https://arxiv.org/abs/2501.12948)\] \\
-DeepSeek-AI, ..., **Runxin Xu**, ... \\
-Arxiv 2025
+DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. \[[PDF]([https://arxiv.org/abs/2501.12948](https://www.nature.com/articles/s41586-025-09422-z))\] \\
+DeepSeek-AI, ..., **Runxin Xu** (as a core contributor), ... \\
+Nature 2025
 
 DeepSeek-V3 Technical Report. \[[PDF](https://arxiv.org/pdf/2412.19437)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
@@ -89,22 +89,22 @@ Deepseek llm: Scaling open-source language models with longtermism. \[[PDF](http
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
 Arxiv 2024
 
+Deepseekmath: Pushing the limits of mathematical reasoning in open language models. \[[PDF](https://arxiv.org/pdf/2402.03300)\] \\
+Zhihong Shao, Peiyi Wang, Qihao Zhu, **Runxin Xu**, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, YK Li, Y Wu, Daya Guo \\
+Arxiv 2024
+
 DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence. \[[PDF](https://arxiv.org/pdf/2406.11931)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
 Arxiv 2024
 
-Deepseekmath: Pushing the limits of mathematical reasoning in open language models. \[[PDF](https://arxiv.org/pdf/2402.03300)\] \\
-Zhihong Shao, Peiyi Wang, Qihao Zhu, **Runxin Xu**, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, YK Li, Y Wu, Daya Guo \\
-Arxiv 2024
+Deepseekmoe: Towards ultimate expert specialization in mixture-of-experts language models. \[[PDF](https://arxiv.org/pdf/2401.06066)\] \\
+Damai Dai, Chengqi Deng, Chenggang Zhao, **Runxin Xu**, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y Wu, Zhenda Xie, YK Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang \\
+ACL 2024
 
 Math-shepherd: Verify and reinforce llms step-by-step without human annotations. \[[PDF](https://aclanthology.org/2024.acl-long.510.pdf)\] \\
 Peiyi Wang, Lei Li, Zhihong Shao, **Runxin Xu**, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui \\
 ACL 2024
 
-Deepseekmoe: Towards ultimate expert specialization in mixture-of-experts language models. \[[PDF](https://arxiv.org/pdf/2401.06066)\] \\
-Damai Dai, Chengqi Deng, Chenggang Zhao, **Runxin Xu**, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y Wu, Zhenda Xie, YK Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang \\
-ACL 2024
-	
 Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models. \[[PDF](https://arxiv.org/pdf/2403.00231)\] \\
 Lei Li, Yuqi Wang, **Runxin Xu**, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu \\
 ACL 2024
@@ -117,6 +117,7 @@ BERT Raises a Child: Towards Improving Generalization for Large Language Model F
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang \\
 EMNLP2021
 
+<!-- 
 Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://aclanthology.org/2021.acl-long.274.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \[[talk](https://www.bilibili.com/video/BV1sf4y1N7Hq)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang \\
 ACL2021
@@ -124,6 +125,7 @@ ACL2021
 Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
 EMNLP2020
+-->
 
 For all publications, please visit [Google scholar](https://scholar.google.com/citations?hl=en&user=dRp21l4AAAAJ).
 
@@ -145,4 +147,4 @@ For all publications, please visit [Google scholar](https://scholar.google.com/c
 # Contact Me
 
 - Email: runxinxu AT gmail DOT com
-- Links: [GitHub](https://github.com/RunxinXu), [Google scholar](https://scholar.google.com/citations?hl=en&user=dRp21l4AAAAJ).
+- Links: [Google scholar](https://scholar.google.com/citations?hl=en&user=dRp21l4AAAAJ).
