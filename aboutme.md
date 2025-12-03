@@ -77,6 +77,10 @@ DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learni
 DeepSeek-AI, ..., **Runxin Xu** (as a core contributor), ... \\
 Nature 2025
 
+DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models. \[[PDF](https://arxiv.org/pdf/2512.02556)\] \\
+DeepSeek-AI, ..., **Runxin Xu**, ... \\
+Arxiv 2025
+
 DeepSeek-V3 Technical Report. \[[PDF](https://arxiv.org/pdf/2412.19437)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
 Arxiv 2024
