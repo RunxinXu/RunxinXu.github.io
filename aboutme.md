@@ -73,9 +73,9 @@ ByteDance Search, *January. 2022 -- September. 2022*
 
 # Selected Publications
 
-DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. \[[PDF]([https://arxiv.org/abs/2501.12948](https://www.nature.com/articles/s41586-025-09422-z))\] \\
+DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. \[[PDF](https://www.nature.com/articles/s41586-025-09422-z)\] \\
 DeepSeek-AI, ..., **Runxin Xu** (as a core contributor), ... \\
-Nature 2025
+Nature Cover Artical | September 2025
 
 DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models. \[[PDF](https://arxiv.org/pdf/2512.02556)\] \\
 DeepSeek-AI, ..., **Runxin Xu**, ... \\
