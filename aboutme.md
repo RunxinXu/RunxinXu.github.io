@@ -17,7 +17,7 @@ published: true
 
 I am Runxin Xu (许润昕), working as a researcher at [DeepSeek](https://chat.deepseek.com/). I am deeply involved in the development of DeepSeek's series of models, including [DeepSeek-R1](https://arxiv.org/abs/2501.12948), DeepSeek [V1](https://arxiv.org/abs/2401.02954)/[V2](https://arxiv.org/abs/2405.04434)/[V3](https://arxiv.org/abs/2412.19437), [DeepSeek Math](https://arxiv.org/abs/2402.03300), [DeepSeek Coder](https://arxiv.org/abs/2406.11931), [DeepSeek MoE](https://arxiv.org/abs/2401.06066). 
 
-Previously, I was a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn).
+Previously, I was a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn).
 
 My long-term research interest primarily lies in AGI, continuously pushing the boundaries of AI intelligence with scalable and effective methods. I constantly remind myself to read the [bitter lessons](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
@@ -30,7 +30,7 @@ My long-term research interest primarily lies in AGI, continuously pushing the b
 [**Peking University**](https://www.pku.edu.cn/), *Sep. 2020 - Jun. 2023*
 
 - Master student at the [School of EECS](https://eecs.pku.edu.cn/).
-- Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
+- Advised by [Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020*
 
@@ -57,12 +57,12 @@ ByteDance Search, *January. 2022 -- September. 2022*
 [**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- December. 2021*
 
 - Effective and efficient language model.
-- Advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
+- Advised by [Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
 
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
 - Information Extraction, Machine Translation.
-- Advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
+- Advised by [Lei Li](https://lileicc.github.io), [Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 
 [**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
 
