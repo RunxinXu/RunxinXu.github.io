@@ -47,7 +47,8 @@ I am a researcher at [DeepSeek](https://www.deepseek.com/), where I have been
 deeply involved in the DeepSeek model series —
 [V1](https://arxiv.org/abs/2401.02954) /
 [V2](https://arxiv.org/abs/2405.04434) /
-[V3](https://arxiv.org/abs/2412.19437) / V3.1 /
+[V3](https://arxiv.org/abs/2412.19437) /
+[V3.1](https://www.deepseek.com/en/news/deepseek-v3-1) /
 [V3.2](https://arxiv.org/abs/2512.02556) /
 [V4](https://arxiv.org/abs/2606.19348) /
 [V4.1](https://arxiv.org/abs/2609.19969), the
