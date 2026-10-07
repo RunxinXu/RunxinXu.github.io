@@ -1,0 +1,17 @@
+<!-- Shared body for the /aboutme* redirect stubs. The About page became the
+     homepage; these keep old inbound links working. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting to {{ site.title }}</title>
+  <link rel="canonical" href="{{ site.url }}/" />
+  <meta http-equiv="refresh" content="0; url={{ site.url }}/" />
+  <meta name="robots" content="noindex" />
+</head>
+<body>
+  <p>This page is now the homepage. Redirecting to
+    <a href="{{ site.url }}/">{{ site.url }}</a>&hellip;</p>
+  <script>window.location.replace({{ site.url | append: "/" | jsonify }});</script>
+</body>
+</html>

@@ -17,16 +17,15 @@ baseurl: ""
 title: Runxin Xu
 
 # Short description of your site
-description: HomePage
+description: Researcher at DeepSeek
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# The homepage builds its own nav from the `page-nav` list in index.md.
+# These links only affect the legacy beautiful-jekyll pages (404, tags).
 navbar-links:
-  About Me: "aboutme"
+  Home: ""
   # CV: "https://raw.githubusercontent.com/RunxinXu/RunxinXu.github.io/master/files/Runxinxu.pdf"
-  # Archives: "https://RunxinXu.github.io/"
-  # Tag Index: "https://RunxinXu.github.io/tags/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -63,6 +62,8 @@ footer-link-col: "#C1685D" # "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Runxin Xu
+# Note: the email address is deliberately NOT stored here. It would end up as a
+# plain-text mailto: in the built HTML; the homepage shows an obfuscated form.
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,10 +71,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "runxinxu@gmail.com"
-  # facebook: daattali
-  github: RunxinXu
-  # twitter: daattali
+  twitter: pigjunebaba
+  # email/github intentionally omitted: `email` would emit a plain-text
+  # mailto: into the legacy 404 and tags pages.
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -154,11 +154,10 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
 
 kramdown:
   input: GFM
@@ -193,6 +192,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - myself.jpeg      # 12 MB original; img/profile.jpg is the crop the site uses
 
 # prose.io config
 prose:
@@ -247,7 +247,6 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali

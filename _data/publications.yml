@@ -1,0 +1,164 @@
+# Selected publications, newest first.
+#
+# To add a paper, copy one block. Fields:
+#   title   — the paper title (plain text)
+#   authors — author list; wrap your own name in <strong>…</strong>
+#   venue   — short venue + year, shown in the left column (keep it short)
+#   note    — optional small tag under the authors (e.g. "Cover Article")
+#   links   — optional list of { name, url }
+#   figure  — optional teaser image, e.g. /img/pubs/deepseek-r1.png
+#   alt     — optional alt text for that image (defaults to the title)
+#
+# The figure column only appears once at least one entry has a `figure:`.
+# `tools/pub-figures.py` can pull candidate figures straight out of the arXiv PDFs.
+
+- title: "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2026"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/abs/2609.19969"
+  figure: /img/pubs/deepseek-v4-1.png
+  alt: "Single-token decode FLOPs versus context length across DeepSeek generations"
+
+- title: "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2026"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/abs/2606.19348"
+  figure: /img/pubs/deepseek-v4.png
+  alt: "Overall architecture of the DeepSeek-V4 series"
+
+- title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong> (core contributor), …"
+  venue: "Nature 2025"
+  note: "Cover Article"
+  links:
+    - name: Paper
+      url: "https://www.nature.com/articles/s41586-025-09422-z"
+  figure: /img/pubs/deepseek-r1.png
+  alt: "AIME accuracy of DeepSeek-R1-Zero rising over RL training"
+
+- title: "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2025"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2512.02556"
+  figure: /img/pubs/deepseek-v3-2.png
+  alt: "DeepSeek Sparse Attention instantiated under MLA"
+
+- title: "Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models"
+  authors: "Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, <strong>Runxin Xu</strong>, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang"
+  venue: "ICLR 2025"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2410.07985"
+  figure: /img/pubs/omni-math.png
+  alt: "Competition hierarchy and mathematical domains covered by Omni-MATH"
+
+- title: "DeepSeek-V3 Technical Report"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2412.19437"
+  figure: /img/pubs/deepseek-v3.png
+  alt: "Benchmark performance of DeepSeek-V3 and its counterparts"
+
+- title: "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2405.04434"
+  figure: /img/pubs/deepseek-v2.png
+  alt: "DeepSeek-V2 architecture: MLA and DeepSeekMoE"
+
+- title: "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2406.11931"
+  figure: /img/pubs/deepseek-coder-v2.png
+  alt: "DeepSeek-Coder-V2 performance on math and code benchmarks"
+
+- title: "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  authors: "Zhihong Shao, Peiyi Wang, Qihao Zhu, <strong>Runxin Xu</strong>, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y. K. Li, Y. Wu, Daya Guo"
+  venue: "arXiv 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2402.03300"
+  figure: /img/pubs/deepseek-math.png
+  alt: "Top-1 accuracy on the competition-level MATH benchmark over time"
+
+- title: "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism"
+  authors: "DeepSeek-AI, …, <strong>Runxin Xu</strong>, …"
+  venue: "arXiv 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2401.02954"
+  figure: /img/pubs/deepseek-llm.png
+  alt: "Training loss curves under different learning-rate schedulers"
+
+- title: "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models"
+  authors: "Damai Dai, Chengqi Deng, Chenggang Zhao, <strong>Runxin Xu</strong>, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu, Zhenda Xie, Y. K. Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang"
+  venue: "ACL 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2401.06066"
+  figure: /img/pubs/deepseek-moe.png
+  alt: "Conventional top-2 routing vs. fine-grained expert segmentation and shared expert isolation"
+
+- title: "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations"
+  authors: "Peiyi Wang, Lei Li, Zhihong Shao, <strong>Runxin Xu</strong>, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui"
+  venue: "ACL 2024"
+  links:
+    - name: PDF
+      url: "https://aclanthology.org/2024.acl-long.510.pdf"
+  figure: /img/pubs/math-shepherd.png
+  alt: "Automatic outcome annotation versus automatic process annotation"
+
+- title: "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models"
+  authors: "Lei Li, Yuqi Wang, <strong>Runxin Xu</strong>, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu"
+  venue: "ACL 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2403.00231"
+  figure: /img/pubs/multimodal-arxiv.png
+  alt: "Single-figure and multiple-figure caption pairs in ArXivCap"
+
+# --- Kept for reference; uncomment to show again -----------------------------
+#
+# - title: "BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning"
+#   authors: "<strong>Runxin Xu</strong>*, Fuli Luo*, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang"
+#   venue: "EMNLP 2021"
+#   links:
+#     - name: PDF
+#       url: "https://aclanthology.org/2021.emnlp-main.749.pdf"
+#     - name: Code
+#       url: "https://github.com/RunxinXu/ChildTuning"
+#     - name: Report
+#       url: "https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w"
+#
+# - title: "Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker"
+#   authors: "<strong>Runxin Xu</strong>, Tianyu Liu, Lei Li, Baobao Chang"
+#   venue: "ACL 2021"
+#   links:
+#     - name: PDF
+#       url: "https://aclanthology.org/2021.acl-long.274.pdf"
+#     - name: Code
+#       url: "https://github.com/RunxinXu/GIT"
+#     - name: Talk
+#       url: "https://www.bilibili.com/video/BV1sf4y1N7Hq"
+#
+# - title: "Double Graph Based Reasoning for Document-level Relation Extraction"
+#   authors: "Shuang Zeng*, <strong>Runxin Xu</strong>*, Baobao Chang, Lei Li"
+#   venue: "EMNLP 2020"
+#   links:
+#     - name: PDF
+#       url: "https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf"
+#     - name: Code
+#       url: "https://github.com/DreamInvoker/GAIN"
